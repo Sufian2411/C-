@@ -31,7 +31,7 @@ Once the connection string is properly set up, run the project to interact with 
  
 YouTube
 CRUD Operations using c# with MSSQL.
-Eakramul Anzum Sabid
+MD. ABU SUFIAN SHOWROV
 17 views · 14 days ago
 Open
 Share in meeting
